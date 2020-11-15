@@ -1,3 +1,3 @@
-* You may follow this link to reach Assignment 1 ➡️ [https://github.com/pjournal/mef04-alialtintas/blob/gh-pages/AliAltintas)
+* You may follow this link to reach Assignment 1 ➡️ [https://github.com/pjournal/mef04-alialtintas/blob/gh-pages/AliAltintas-HW1.Rmd](AliAltintas-HW1.html)
 
 
