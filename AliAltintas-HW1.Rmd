@@ -4,7 +4,7 @@ author: "ALI ALTINTAS"
 date: "20 10 2020"
 output: html_document
 
-Hello all,
+##Hello all,
 
 My name is Ali Altintas. I have graduated from Yeditepe University since 2018.
 
